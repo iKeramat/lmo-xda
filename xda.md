@@ -1,4 +1,4 @@
-[CENTER][URL='https://libremobileos.com/lmodroid'][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/twelve/logo.png[/IMG][/URL][/CENTER]
+[CENTER][URL='https://libremobileos.com/lmodroid'][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/logo.png[/IMG][/URL][/CENTER]
 [CODE]* Your warranty is now void.
 * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels.
 * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.[/CODE]
@@ -81,6 +81,13 @@ Statusbar:
 - [U]Recommended firmware is latest stable firmware[/U][/B]
 - No custom kernels and custom modules are supported. Only stock kernel and official builds will be supported. No bug reports if that's not the case.
 
+[B][U]Screenshots:[/U][/B]
+[SPOILER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/1.png[/IMG][/CENTER]
+
+[/SPOILER]
+
 [U][B]Installation:[/B][/U]
 Download *.img files from download section and install them from fastboot.
 example:
@@ -94,12 +101,12 @@ Apply update -> Apply from ADB:
 [CODE]adb sideload LMODroid-*-RELEASE-codename.zip[/CODE]
 
 [B][U]Useful links:[/U]
-Web[U]:[/U][/B] https://libremobileos.com/
-[B]Download[U]:[/U][/B] https://get.libremobileos.com/
-[B]Gerrit: [/B]https://gerrit.libremobileos.com/
-[B]Jenkins:[/B] https://jenkins.libremobileos.com/
-[B][B]Git:[/B][/B] https://git.libremobileos.com/LMODroid
-[B][B]Git devices:[/B][/B] https://git.libremobileos.com/LMODroid-Devices
-[B]Github(mirror):[/B] https://github.com/LMODroid
-[B]Github devices(mirror):[/B] https://github.com/LMODroid-Devices
-[B]Telegram discussion group:[/B] https://t.me/LMODroid_Discussion
+Web:[/B] [URL]https://libremobileos.com/[/URL]
+[B]Download:[/B] [URL]https://get.libremobileos.com/[/URL]
+[B]Gerrit:[/B][URL unfurl="true"]https://gerrit.libremobileos.com/[/URL]
+[B]Jenkins:[/B] [URL]https://jenkins.libremobileos.com/[/URL]
+[B][B]Git:[/B][/B] [URL]https://git.libremobileos.com/LMODroid[/URL]
+[B][B]Git devices:[/B][/B] [URL]https://git.libremobileos.com/LMODroid-Devices[/URL]
+[B]Github(mirror):[/B] [URL]https://github.com/LMODroid[/URL]
+[B]Github devices(mirror):[/B] [URL]https://github.com/LMODroid-Devices[/URL]
+[B]Telegram discussion group:[/B] [URL]https://t.me/LMODroid_Discussion[/URL]
