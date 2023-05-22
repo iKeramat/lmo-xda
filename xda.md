@@ -1,5 +1,3 @@
-Thread title: [ROM] LMODroid 4.x - YOUR DEVICE
-
 [CENTER][URL='https://libremobileos.com/lmodroid'][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/twelve/logo.png[/IMG][/URL][/CENTER]
 [CODE]* Your warranty is now void.
 * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels.
