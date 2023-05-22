@@ -83,9 +83,18 @@ Statusbar:
 
 [B][U]Screenshots:[/U][/B]
 [SPOILER]
-
-[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/1.png[/IMG][/CENTER]
-
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/1.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/2.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/3.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/4.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/5.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/6.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/7.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/8.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/9.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/10.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/11.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/12.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/13.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/14.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/15.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/16.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/17.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/18.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/19.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/20.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/21.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/22.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/23.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/24.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/25.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/26.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/27.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/28.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/29.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/30.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/31.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/32.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/33.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/34.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/35.png[/IMG][IMG]https://raw.githubusercontent.com/iKeramat/lmo-xda/thirteen/screenshots/36.png[/IMG][/CENTER]
 [/SPOILER]
 
 [U][B]Installation:[/B][/U]
